@@ -1,0 +1,16 @@
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Employees\bin\Release\Employees.exe
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Employees\bin\Release\Employees.pdb
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Employees\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Employees\obj\Release\Employees.exe
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Employees\obj\Release\Employees.pdb
+D:\Сборки\Employees\Employees\obj\Release\Employees.exe
+D:\Сборки\Employees\Employees\obj\Release\Employees.pdb
+D:\Сборки\Employees\Employees\obj\Release\ResolveAssemblyReference.cache
+D:\Сборки\Employees\Employees\bin\Release\Employees.exe
+D:\Сборки\Employees\Employees\bin\Release\Employees.pdb
+D:\Learning\Employees\Employees\Employees\bin\Release\Employees.exe
+D:\Learning\Employees\Employees\Employees\bin\Release\Employees.pdb
+D:\Learning\Employees\Employees\Employees\obj\Release\Employees.csprojAssemblyReference.cache
+D:\Learning\Employees\Employees\Employees\obj\Release\Employees.csproj.CoreCompileInputs.cache
+D:\Learning\Employees\Employees\Employees\obj\Release\Employees.exe
+D:\Learning\Employees\Employees\Employees\obj\Release\Employees.pdb
